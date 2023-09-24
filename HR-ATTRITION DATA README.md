@@ -5,3 +5,5 @@ Created new columns which helped us in creating new KPIs.
 Created few measures for developing new KPIs.
 Then we created DASHBOARDS related to ATTRITION, SALES, HR, R&D Departments.
 We created the INSIGHTS related to the data.
+
+Presentation Link:https://www.canva.com/design/DAFuh7bh1qQ/0SM812mvj8rpHBQRsjy6lg/view?utm_content=DAFuh7bh1qQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
